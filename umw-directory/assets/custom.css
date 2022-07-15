@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #e10304;
+    color: #FFF;
+    border-bottom: 3px solid #666;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFF;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #FFF;
+}
